@@ -76,3 +76,21 @@ canvas {
   border: none;
   border-radius: 5px;
 }
+
+footer {
+  margin-top: 20px;
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+
+footer ul {
+  list-style: none;
+  display: flex;
+}
+
+footer ul li {
+  margin: 0 20px;
+}
