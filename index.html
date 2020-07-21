@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- METADATA -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Create field to sign/draw/paint both on touch screens and with mouse on PCs with JavaScript"
+    />
+    <meta name="author" content="Juan Carlos Acosta Perabá" />
+    <meta name="copyright" content="Juan Carlos Acosta Perabá" />
+    <!-- TITLE -->
+    <title>Sign/Draw/Paint</title>
+    <!-- STYLE -->
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+  </head>
+  <body>
+    <h1>Sign / Draw / Paint</h1>
+    <p class="info">
+      Canvas to generate a signature of a form, draw or paint on your a web
+      page.
+      <br />
+      <span class="bold">It works with JavaScript.</span>
+    </p>
+    <!-- form -->
+    <canvas id="signature-draw-paint"></canvas>
+    <p class="buttons">
+      <button type="button" id="send" class="send">Send</button>
+      <button type="button" id="clear" class="clear">Clear</button>
+    </p>
+
+    <!--  This part is to implement a signature field into a form.
+    <input type="hidden" name="signature-code" id="signature-code" />
+    </form>
+    -->
+
+    <script src="./app.js"></script>
+  </body>
+</html>
