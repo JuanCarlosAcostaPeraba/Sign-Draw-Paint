@@ -1,7 +1,7 @@
 # Sign-Draw-Paint
 
 [![GitHub followers](https://img.shields.io/github/followers/JuanCarlosAcostaPeraba?style=social)](https://github.com/JuanCarlosAcostaPeraba)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JC_AcostaPeraba?label=Follow&style=social)](https://twitter.com/JC_AcostaPeraba)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JC_AcostaPeraba?label=Follow&style=social)](https://twitter.com/JuanSerberoCode)
 
 Canvas to generate a signature of a form, draw or paint on your web page.
 
