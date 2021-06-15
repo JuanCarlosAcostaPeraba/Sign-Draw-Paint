@@ -5,7 +5,7 @@
 
 Canvas to generate a signature of a form, draw or paint on your web page.
 
-<a href="https://juancarlosacostaperaba.github.io/Sign-Draw-Paint/" target="_balnk">Test it!</a>
+<a href="https://juancarlosacostaperaba.github.io/Sign-Draw-Paint/" target="_blank">Test it!</a>
 
 ## License 📄
 
