@@ -4,7 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/JuanSerberoCode?label=Follow&style=social)](https://twitter.com/JuanSerberoCode)
 
 Canvas to generate a signature of a form, draw or paint on your web page.
-(Try it for free)[https://juancarlosacostaperaba.github.io/Sign-Draw-Paint/]
+
+[Try it for free](https://juancarlosacostaperaba.github.io/Sign-Draw-Paint/)
 
 ## License 📄
 
