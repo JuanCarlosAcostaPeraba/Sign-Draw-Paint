@@ -1,22 +1,23 @@
 # Sign-Draw-Paint
 
-<a href="https://github.com/JuanCarlosAcostaPeraba" target="_blank"><img src="https://img.shields.io/github/followers/JuanCarlosAcostaPeraba?style=social" alt="GitHub followers" /></a>
-<a href="https://twitter.com/JuanSerberoCode" target="_blank"><img src="https://img.shields.io/twitter/follow/JuanSerberoCode?label=Follow&style=social" alt="Twitter followers" /></a>
+[![GitHub Repo stars](https://img.shields.io/github/stars/JuanCarlosAcostaPeraba/Sign-Draw-Paint?style=social)](https://github.com/JuanCarlosAcostaPeraba/Sign-Draw-Paint)
 
-Canvas to generate a signature of a form, draw or paint on your web page.
+**Canvas to generate a signature of a form, draw or paint on your web page.**
 
-<a href="https://juancarlosacostaperaba.github.io/Sign-Draw-Paint/" target="_blank">Test it!</a>
+## [Test it 📝](https://juancarlosacostaperaba.github.io/Sign-Draw-Paint/)
+
+---
+
+## Thanks 🎁
+
+-   Tell others about this project 📢
+-   Give me your [opinion](https://twitter.com/JuanSerberoCode) 🤓
+-   Visit my [profile](https://github.com/JuanCarlosAcostaPeraba) 🙋‍♂️
 
 ## License 📄
 
 This project is under the [MIT License](https://opensource.org/licenses/MIT) - see the file [LICENSE.md](LICENSE.md) for details
 
-## Thanks 🎁
-
--   Tell others about this project 📢
--   Support the developer by buying a <a href="https://www.buymeacoffee.com/juanserberocode" target="_blank">coffee</a> ☕
--   Give your opinion 🤓
-
 ---
 
-Made with ❤️ by <a href="https://github.com/JuanCarlosAcostaPeraba" target="_blank">Juan Carlos Acosta Perába</a> 😊
+Made with ❤️ by [Juan Carlos Acosta Perabá](https://github.com/JuanCarlosAcostaPeraba) 😊
