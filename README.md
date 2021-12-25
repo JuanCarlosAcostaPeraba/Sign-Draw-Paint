@@ -16,7 +16,7 @@
 
 ## License 📄
 
-This project is under the [MIT License](https://opensource.org/licenses/MIT) - see the file [LICENSE.md](LICENSE.md) for details
+This project is under the [MIT License](https://opensource.org/licenses/MIT) - see the file [LICENSE](./LICENSE) for details
 
 ---
 
