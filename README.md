@@ -6,8 +6,6 @@
 
 ## [Test it 📝](https://juancarlosacostaperaba.github.io/Sign-Draw-Paint/)
 
----
-
 ## Thanks 🎁
 
 -   Tell others about this project 📢
