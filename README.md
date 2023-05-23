@@ -9,7 +9,7 @@
 ## Thanks 🎁
 
 -   Tell others about this project 📢
--   Give me your [opinion](https://twitter.com/JuanSerberoCode) 🤓
+-   Give me your [opinion](https://twitter.com/jcap_dev) 🤓
 -   Visit my [profile](https://github.com/JuanCarlosAcostaPeraba) 🙋‍♂️
 
 ## License 📄
